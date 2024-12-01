@@ -1,4 +1,4 @@
-# Admin_citas_medicas
+#Admin_citas_medicas
 
 Este proyecto es una aplicación de administración de citas médicas, desarrollada con Vue.js.
 
